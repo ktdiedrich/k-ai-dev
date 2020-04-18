@@ -1,0 +1,33 @@
+scipy
+numpy
+jupyter
+jupyterlab
+sklearn
+matplotlib
+keras
+plotly
+bokeh
+opencv-python
+pandas
+xgboost
+dash
+pandas
+graphviz
+seaborn
+sqlalchemy
+flask
+flask-sqlalchemy
+holoviews
+xlrd
+wordcloud
+pywaffle 
+folium
+torchsummary
+scikit-image
+
+# conda installed 
+# torch
+# torchvision
+# fastai
+# tensorflow-gpu
+# tensorboard
