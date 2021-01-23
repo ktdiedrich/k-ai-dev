@@ -1,0 +1,63 @@
+name: base
+channels:
+  - pytorch
+  - fastai
+  - conda-forge
+  - anaconda
+  - defaults
+  - simpleitk
+dependencies:
+  - gdcm
+  # - py-xgboost-gpu
+  - setuptools
+  # - spyder
+  - tensorflow-gpu
+  - tensorboard
+  - pytorch
+  - torchvision
+  - tensorboardx
+  - torchtext
+  # - fastai
+  # - nvidia-apex
+  # - ignite
+  - pycocotools
+  # - albumentations
+  - scipy
+  - numpy
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  # - plotly
+  - bokeh
+  - dash
+  - pandas
+  - seaborn
+  - sqlalchemy
+  - flask
+  - flask-sqlalchemy
+  - flask-restplus
+  # - holoviews
+  - xlrd
+  # - wordcloud
+  # - pywaffle
+  # - folium
+  - scikit-image
+  - scikit-learn
+  - simpleitk
+  - itk
+  - vtk
+  - lightgbm
+  - tqdm
+  - opencv
+  - pydicom
+  - celery
+  - nibabel
+  - pip
+  - pip:
+    - torchsummary
+    # - graphviz
+    - pylidc
+    - monai
+    - pyvista
+    - tfds-nightly
+prefix: /opt/miniconda
